@@ -28,7 +28,15 @@ footer {
 }
 
 body.index {
-  img {
-    margin-top: 5em;
+  background: url("/assets/images/halftone.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  #footer {
+    position: fixed;
+    left: 20px;
+    bottom: 5px;
+    height: 30px;
+    width: 100%;
   }
 }
