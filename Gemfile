@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-ruby "2.7.8"
+ruby "3.0.6"
 
-gem "bourbon"
+gem "bourbon", "~> 5.1"
 gem "builder"
 gem "middleman"
 gem "middleman-aria_current"
